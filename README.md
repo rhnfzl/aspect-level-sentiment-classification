@@ -1,5 +1,7 @@
 # Aspect-level Sentiment Classification
 
+#### Part of Assignment of Deep Learning Course (2IMM10) at TU/e 
+
 ## Objective
 
 Build a aspect-level classification model based on document-level and aspect-level data as proposed in [Exploiting document knowledge for aspect-level sentiment classification](/reading/exploiting_document_knowledge_for_aspect-level_sentiment_classification.pdf). Build an attention-based aspect-level sentiment classification model with Bidirectional Long Short Term Memory networks (BiLSTM). Your model shall include:
